@@ -1,0 +1,12 @@
+.bg-2{
+    width: 100%;
+    height: 700px;
+    background: url(../img/grass.png) bottom / 200px repeat-x ,
+                url(../img/izak.jpg) left / 40px repeat-y,
+                url(../img/lamp-png-0.png) top / 30px repeat-x,
+                url(../img/ponchik.png) right / 30px repeat-y,
+                url(../img/img.house.jpg) center / 500px no-repeat,
+                rgb(62, 128, 0);
+   
+                
+}
